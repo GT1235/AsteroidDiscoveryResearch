@@ -8,3 +8,4 @@ Some Notes:
 - All code was written by me, unless otherwise stated in the cell itself.
 - Since this was a multiyear research effort, there isn't one single notebook with all of the important code. Instead, each noteook hosts a different step of the AI pipeline.
 - I've left the notebooks unedited from my raw research work.
+- This code and processes are property of Gauri Todur.
